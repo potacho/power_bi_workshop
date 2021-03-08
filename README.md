@@ -11,8 +11,6 @@
 
 ## :chart_with_upwards_trend: __Main Tasks__
 
-<p align="center"><img src="https://github.com/potacho/power_bi_workshop/blob/master/images/logo.png"></p>
-
 #### __1) Consume and Transform Data with Power BI Desktop__
 - Connect to data sources
 - Perform transformations
