@@ -38,7 +38,6 @@
 - [Power BI Ideas](https://ideas.powerbi.com/ideas/)
 - [Power BI Support](https://powerbi.microsoft.com/en-us/support/)
 - [Power BI Data Stories Gallery](https://community.powerbi.com/t5/Data-Stories-Gallery/bd-p/DataStoriesGallery)
-
 - [Exam DA-100: Analyzing Data with Microsoft Power BI](https://docs.microsoft.com/en-us/learn/certifications/exams/da-100)
 
 
