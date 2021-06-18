@@ -55,7 +55,7 @@
 
 
 ## :mortar_board: __Basic Training__
-- [Analyzing and Visualizing Data with Power BI](https://www.edx.org/es/course/analyzing-and-visualizing-data-with-power-bi-3)
+- [Microsoft Learn for Power BI](https://docs.microsoft.com/en-us/learn/powerplatform/power-bi)
 - [Introduction to Data Modeling for Power BI](https://www.sqlbi.com/p/introduction-to-data-modeling-for-power-bi-video-course/)
 - [Introducing DAX Video Course](https://www.sqlbi.com/p/introducing-dax-video-course/)
 
